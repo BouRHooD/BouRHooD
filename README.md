@@ -69,7 +69,7 @@ I am a <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" wid
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BouRHooD&layout=compact&theme=vision-friendly-dark&hide=Jupyter+Notebook,HTML)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bourhood&hide=contribs,prs)
 
 ---
 
