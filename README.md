@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/dX7VYZdd4t20rTyRpY/giphy.gif" width="155"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzU4d3cxMGtndXoxdjBpa2ozbGExcGs4aHBjcXFleTZzbTFib2gwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="155"/>
   
   <div id="badges" align="center">
     <a href="https://www.youtube.com/BouRHooD">
